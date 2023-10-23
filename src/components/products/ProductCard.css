@@ -1,0 +1,19 @@
+.product_card {
+  width: 275px;
+  height: 330px;
+  margin: 20px;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.product_image {
+  height: 200px;
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.product_image img {
+  height: 100%;
+}
